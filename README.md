@@ -12,22 +12,21 @@ This project aims to analyze employee attrition data to identify trends and insi
 - Employees Promoted & Stayed: 245
   
 # Departmental Analysis:
-- Average Satisfaction Level by Department:
+- **Average Satisfaction Level by Department**:
 - Highest in Sales (~0.53)
 - Lowest in Marketing (~0.49)
-- Average Salary by Department:
+- **Average Salary by Department**:
 - Sales and Marketing: $66K
 - HR and Engineering: $64K
-- Finance: $63K
-  
-- Attrition by Department:
+- Finance: $63K  
+- **Attrition by Department**:
 - Consistent attrition rates (~50%) across most departments.
   
 # Demographic Insights:
 
-- Attrition by Gender: Distribution shown in a pie chart.
-- Age and Tenure:
--Average Age: 42 years
+- **Attrition by Gender**: Distribution shown in a pie chart.
+- **Age and Tenure**:
+- Average Age: 42 years
 - Average Years at Company: 5 years
   
 # Workload & Satisfaction:
@@ -35,21 +34,20 @@ This project aims to analyze employee attrition data to identify trends and insi
 
   
 # Data Sources
-- SQL Database: employee_attrition.sql - Contains structured relational data for querying.
-- CSV File: employee_attrition_data.csv - Dataset for direct analysis in tools like Excel or Python.
-- Dashboard Visualization: Summary of key metrics presented in an interactive dashboard.
+- **SQL Database**: employee_attrition.sql - Contains structured relational data for querying.
+- **CSV File**: employee_attrition_data.csv -Contains employee attrition data
+- **Dashboard Visualization**: employee_attrition.pbix -Summary of key metrics presented in an interactive dashboard.
 
 
 # Insights Gained
-- Retention Challenges:
+- **Retention Challenges**:
 - Half of the workforce is leaving, suggesting potential issues with work environment, growth opportunities, or job satisfaction.
-- Department Variances:
+- **Department Variances**:
 - Marketing and HR show lower satisfaction scores and salaries, indicating possible improvement areas.
-- Promotion Effectiveness:
+- **Promotion Effectiveness**:
 - Promotions alone do not significantly reduce attrition (almost equal split between promoted employees leaving and staying).
 
 # Tools and Technologies Used
-- Database: SQL for querying employee attrition records.
-- Data Analysis: Python and Pandas for statistical insights and preprocessing.
-- Visualization: Power BI for creating the dashboard.
+- Database: SQL Server for analyzing employee attrition records.
+- Visualization Tool: Power BI for creating the dashboard.
 - Spreadsheet Tools: CSV file analysis for data integrity and reporting.

@@ -24,7 +24,9 @@ This project aims to analyze employee attrition data to identify trends and insi
   
 # Demographic Insights:
 
-- **Attrition by Gender**: Distribution shown in a pie chart.
+- **Attrition by Gender**:
+- Male: 48.29%
+- Female: 51.71%
 - **Age and Tenure**:
 - Average Age: 42 years
 - Average Years at Company: 5 years

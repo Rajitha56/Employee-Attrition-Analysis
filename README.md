@@ -4,14 +4,14 @@
 This project aims to analyze employee attrition data to identify trends and insights related to employee satisfaction, salary distribution, department-wise attrition rates, and other key metrics. The analysis helps organizations understand the factors influencing employee turnover and retention, enabling better decision-making for HR strategies.
 
 # Key Features
-# Employee Statistics:
+## Employee Statistics:
 - Total Employees: 1,000
 - Attrition Rate: 50%
 - Average Salary: $65K
 - Employees Promoted & Left: 264
 - Employees Promoted & Stayed: 245
   
-# Departmental Analysis:
+## Departmental Analysis:
 - **Average Satisfaction Level by Department**:
 - Highest in Sales (~0.53)
 - Lowest in Marketing (~0.49)
@@ -22,7 +22,7 @@ This project aims to analyze employee attrition data to identify trends and insi
 - **Attrition by Department**:
 - Consistent attrition rates (~50%) across most departments.
   
-# Demographic Insights:
+## Demographic Insights:
 
 - **Attrition by Gender**:
 - Male: 48.29%
@@ -30,9 +30,6 @@ This project aims to analyze employee attrition data to identify trends and insi
 - **Age and Tenure**:
 - Average Age: 42 years
 - Average Years at Company: 5 years
-  
-# Workload & Satisfaction:
-- Employees who left had slightly higher monthly hours but marginally lower satisfaction levels (0.50 vs. 0.51).
 
   
 # Data Sources
